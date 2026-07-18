@@ -26,14 +26,14 @@ This repository documents my journey from beginner to Offensive Security Enginee
 ---
 
 ## Repository Structure
-
-notes/
-writeups/
-labs/
-scripts/
-screenshots/
-
-
+```
+offensive-security-labs/
+├── notes/
+├── writeups/
+├── labs/
+├── scripts/
+├── screenshots
+```
 ---
 
 ## Goal
